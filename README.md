@@ -19,6 +19,7 @@ Using modern visualization techniques (pie, bar, line, maps, highlight tables), 
 ---
 
 ## 📂 Repo Structure
+```bash
 student‑housing‑dashboard/
 ├── dashboards/
 │ └── StudentHousing.twb # Tableau workbook (Phase III)
@@ -29,6 +30,7 @@ student‑housing‑dashboard/
 │ ├── Project‑Phase_II_DecisionMaking.docx
 │ └── Project‑Phase_III_Dashboard.docx
 └── README.md
+```
 
 ## 🚀 Phases
 
